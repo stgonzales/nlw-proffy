@@ -1,0 +1,27 @@
+{
+  "name": "NLW",
+  "version": "1.0.0",
+  "description": "This repo is part of [RocketSeat](https://rocketseat.com.br/) training for [GoStack](https://rocketseat.com.br/gostack) bootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stgonzales/nlw-proffy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stgonzales/nlw-proffy/issues"
+  },
+  "homepage": "https://github.com/stgonzales/nlw-proffy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4",
+    "nunjucks": "^3.2.2"
+  }
+}
